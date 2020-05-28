@@ -6457,7 +6457,6 @@ a.close.disabled {
 .carousel-inner {
     position: relative;
     width: 100%;
-    height: 520px !important;
     overflow: hidden
 }
 
